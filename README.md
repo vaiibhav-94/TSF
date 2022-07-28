@@ -43,16 +43,3 @@ This repository contains the tasks that I completed while working as an intern a
 4. You can use any tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
 5. Data can be be found at [https://bit.ly/34SRn3b](https://bit.ly/34SRn3b)
 
-
-### # Task-6 : Prediction using Decision Tree Algorithm (Level - Intermediate)
-1. Create a decision tree classifier and visualize it graphically.
-2. The purpose if we feed any new data to this classifier, it would be able to predict the right class accordingly.
-3. Data can be be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
-
-### # Task-7 : Stock Market Prediction using Numerical and Texual Analysis (Level - Advanced)
-1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
-2. Stock to analyze and predict - SENSEX(S&P BSE SENSEX)
-3. Download historical stock prices from [finance.yahoo.com](https://finance.yahoo.com/)
-4. Download texual(news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
-5. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
-6. You are free to select **different** stock to analysis and news dataset as well while not changing the **objective** of the task.
